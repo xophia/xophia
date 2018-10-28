@@ -1,0 +1,1 @@
+[null,{"name":"join","temp":"mem","event-type":"6","actions":[{"channel":"4","varName":"","message":"Welcome ^^ '' ${tempVars(\"mem\")} ''","storage":"0","varName2":"","name":"Send Message"}]},{"name":"ban","temp":"mem","event-type":"12","actions":[{"channel":"4","varName":"","message":"${tempVars(\"mem\")} Banned !!","storage":"0","varName2":"","name":"Send Message"}]}]
